@@ -1,0 +1,12 @@
+{
+    "name": "bldr/bldr-io",
+    "require": {
+        "bldr-io/bldr": "@stable"
+    },
+    "authors": [
+        {
+            "name": "Aaron Scherer",
+            "email": "aequasi@gmail.com"
+        }
+    ]
+}
