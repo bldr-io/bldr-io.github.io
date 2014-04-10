@@ -1,7 +1,7 @@
 {
     "name": "bldr/bldr-io",
     "require": {
-        "bldr-io/bldr": "~1.3.2"
+        "bldr-io/bldr": "@stable"
     },
     "authors": [
         {

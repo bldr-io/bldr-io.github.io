@@ -378,6 +378,7 @@ function installBldr($installDir, $quiet)
     if (!$quiet) {
         out(PHP_EOL."Bldr successfully installed to: " . $file, 'success', false);
         out(PHP_EOL."Use it: php $installPath", 'info');
+        out(PHP_EOL.`php $installPath --version`);
     }
 }
 
